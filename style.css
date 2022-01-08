@@ -1,0 +1,35 @@
+.div-1{
+background-color:rgba(86, 139, 99, 0.774);
+width:200px;
+height:150px;
+
+}
+
+.div-2{
+background-color:rgba(226, 213, 183, 0.795);
+width:300px;
+height:250px;
+position: relative;
+overflow:scroll;
+}
+
+.div-3{
+background-color:rgba(141, 123, 91, 0.582);
+width:200px;
+height:200px;
+
+}
+
+.child-div{
+  background-color:beige;
+  width:50px;
+  height:50px;
+  position: absolute;
+  bottom:0px;
+  
+
+}
+
+p{
+  margin:0px;
+}
